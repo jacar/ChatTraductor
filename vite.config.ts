@@ -24,7 +24,7 @@ import { defineConfig } from 'vite';
     },
     build: {
       target: 'esnext',
-      outDir: 'build',
+      outDir: 'dist/client',
     },
     server: {
       port: 3000,
