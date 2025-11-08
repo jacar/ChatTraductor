@@ -60,7 +60,7 @@
     "vercel-build": "npm ci && node node_modules/vite/bin/vite.js build",
     "lint": "eslint . --ext ts,tsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview"
-  },
+  }, // Added a comment to force Vercel to re-read package.json
   "engines": {
     "node": "18.x"
   }
