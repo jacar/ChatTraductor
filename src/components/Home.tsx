@@ -146,7 +146,7 @@ export function Home({ onStartChat }: HomeProps) {
           <CardHeader className="text-center pb-8">
             <div className="flex justify-center mb-4">
               <ImageWithFallback 
-                src="https://www.webcincodev.com/blog/wp-content/uploads/2025/10/ogimage-1.png"
+                src="https://www.webcincodev.com/blog/wp-content/uploads/2025/11/Monar-1.svg"
                 alt="FionAR Logo"
                 className="w-40 h-40 object-contain"
               />
